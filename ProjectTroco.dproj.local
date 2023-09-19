@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/14 20:54:55.000.873,=C:\Users\lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/14 21:21:50.000.389,C:\Users\lucas\Desktop\Prova\TrocoUnit1.dfm=C:\Users\lucas\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/09/14 21:21:50.000.389,C:\Users\lucas\Desktop\Prova\TrocoUnit1.pas=C:\Users\lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/14 21:23:21.000.836,C:\Users\lucas\Desktop\Prova\ProjectTroco.dproj=C:\Users\lucas\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="TrocoUnit1.pas"/>
+    <File Path="TrocoUnit1.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
